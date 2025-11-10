@@ -1,1 +1,1 @@
-# coin_trading
+# crypto-scanner
