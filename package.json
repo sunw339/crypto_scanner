@@ -1,0 +1,23 @@
+{
+  "name": "crypto-scanner",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node -P tsconfig.json src/index.ts"
+  },
+  "dependencies": {
+    "ccxt": "^4.4.43",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/node-cron": "^3.0.11",
+    "@types/node-telegram-bot-api": "^0.64.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
