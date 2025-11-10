@@ -1,4 +1,4 @@
-# coin_trading
+# crypto_scanner
 
 1. 텔레그램 접속후 botfater > 채팅방 생성 (/newbot)
 2. 전달받은 token을 넣어서 아래 주소로 이동
